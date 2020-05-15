@@ -125,7 +125,10 @@ Transformation
 
 
 
-References:
+**References:**
+
 [1] “Cursor Tutorial,” Cursor Tutorial - tweepy 3.5.0 documentation. [Online]. Available: http://docs.tweepy.org/en/v3.5.0/cursor_tutorial.html. 
+
 [2] “Getting started,” Getting started - tweepy 3.5.0 documentation. [Online]. Available: http://docs.tweepy.org/en/v3.5.0/getting_started.html. 
+
 [3] “News API - A JSON API for live news and blog articles,” News API - A JSON API for live news and blog articles. [Online]. Available: https://newsapi.org/.
